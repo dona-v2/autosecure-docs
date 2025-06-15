@@ -557,6 +557,7 @@ The connection will remain active unless it's closed due to:
 - Network connectivity issues
 - Server maintenance or restarts
 - Extended periods of inactivity (60+ seconds without ping/pong response)
+- The API key becomes **inactive / revoked**
 - Client-side disconnection
 
 If the connection is lost due to network issues or other problems, you will need to reconnect and re-authenticate before continuing to use the API.
