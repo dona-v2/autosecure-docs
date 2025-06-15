@@ -453,7 +453,7 @@ Retrieves comprehensive Hypixel statistics for a player and optional price calcu
         // ... many more stat keys (all lowercase, no % symbols)
     },
     "price_calcs": {
-        // Price-calculation payload (if available)
+        // Price-calculations (if available)
     }
 }
 ```
@@ -478,7 +478,7 @@ Check your connection status anytime:
     "id": "req_1641024000000_pqr678",
     "success": true,
     "authenticated": true,
-    "api_key": "12345678...",
+    "api_key": "...",
     "allowed_events": ["msaauth", "status", "recoverycode", "otp", "emails", "lunar", "seckey", "stats"],
     "connection_id": "unique_connection_id"
 }
