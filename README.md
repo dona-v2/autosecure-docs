@@ -450,7 +450,7 @@ Retrieves comprehensive Hypixel statistics for a player and optional price calcu
     "data": {
         "bedwarstars": 1200,
         "rank": "mvp+",
-        // ... many more stat keys (all lowercase, no % symbols)
+        // ... many more stat keys (all lowercase)
     },
     "price_calcs": {
         // Price-calculations (if available)
